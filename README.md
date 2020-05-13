@@ -1,5 +1,24 @@
 # Mystore
 
+<p float="left">
+  
+</p>
+
+<table>
+  <tr> 
+    <td align="center">Product List</td>
+    <td align="center">Product Detail</td>
+    <td align="center">Cart</td>
+    <td align="center">Shipping</td>
+  </tr>
+  <tr>
+  <td align="center"><img src="/src/assets/mystore_product_list.png" width="300"></td>
+  <td align="center"><img src="/src/assets/mystore_product_detail.png" width="300"></td>
+  <td align="center"><img src="/src/assets/mystore_cart.png" width="300"></td>
+  <td align="center"><img src="/src/assets/mystore_shipping.png" width="300"></td>
+ </tr>
+ </table>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
 ## Development server
